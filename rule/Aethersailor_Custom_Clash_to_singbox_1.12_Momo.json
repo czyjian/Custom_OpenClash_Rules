@@ -86,7 +86,7 @@
         {
           "action": "exclude",
           "keywords": [
-            "官网|到期|剩余|流量|套餐|订阅|免费|全球直连|GB|Expire|Traffic"
+            "官网|到期|剩余|流量|套餐|订阅|免费|全球直连|GB|Expire|Traffic|工单"
           ]
         }
       ],
