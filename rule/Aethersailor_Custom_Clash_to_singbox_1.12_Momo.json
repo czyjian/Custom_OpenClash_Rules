@@ -849,6 +849,13 @@
         "download_detour": "🎯 全球直连"
       },
       {
+        "tag": "geosite-github",
+        "type": "remote",
+        "format": "binary",
+        "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/github.srs",
+        "download_detour": "🎯 全球直连"
+      },
+      {
         "tag": "geosite-speedtest",
         "type": "remote",
         "format": "binary",
