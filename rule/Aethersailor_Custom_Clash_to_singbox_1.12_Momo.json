@@ -43,16 +43,16 @@
         "server": "local"
       },
       {
+        "rule_set": "geosite-cn",
+        "server": "local"
+      },
+      {
         "query_type": [
           "A",
           "AAAA"
         ],
         "server": "fakeip",
         "rewrite_ttl": 1
-      },
-      {
-        "rule_set": "geosite-cn",
-        "server": "local"
       }
     ],
     "final": "foreign",
