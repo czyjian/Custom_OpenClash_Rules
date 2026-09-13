@@ -3,8 +3,11 @@
     "servers": [
       {
         "tag": "local",
-        "type": "udp",
-        "server": "223.5.5.5"
+        "type": "https",
+        "server": "223.5.5.5",
+        "tls": {
+          "server_name": "dns.alidns.com"
+        }
       },
       {
         "tag": "public",
@@ -131,10 +134,10 @@
       }
     ],
     "final": "🚀 手动选择",
-    "auto_detect_interface": true,
     "default_domain_resolver": {
       "server": "public"
-    }
+    },
+    "auto_detect_interface": true
   },
   "inbounds": [
     {
