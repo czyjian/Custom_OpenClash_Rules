@@ -131,6 +131,7 @@
       }
     ],
     "final": "🚀 手动选择",
+    "auto_detect_interface": true,
     "default_domain_resolver": {
       "server": "public"
     }
